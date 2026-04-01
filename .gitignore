@@ -1,0 +1,22 @@
+# Laravel
+app/vendor/
+app/node_modules/
+app/.env
+app/storage/logs/*.log
+app/public/build/
+app/public/hot
+app/.phpunit.result.cache
+app/bootstrap/cache/*.php
+
+# Docker
+.env
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
